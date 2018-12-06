@@ -1,0 +1,14 @@
+p {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 50pt;
+  font-weight: lighter;
+  font-family: "Helvetica";
+  color: white;
+}
+
+body {
+  background: #006CB4;
+}
