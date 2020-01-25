@@ -23,3 +23,17 @@ p {
 body {
   background: #006CB4;
 }
+
+button {
+  position: fixed;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: none;
+  color: white;
+  padding: 14px 28px;
+  cursor: pointer;
+}
+
+.squelch {background-color: #ff99ff;}
+.squelch:hover {background-color: #ff66ff;}
