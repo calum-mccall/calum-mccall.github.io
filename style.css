@@ -7,6 +7,7 @@ h1 {
   font-weight: lighter;
   font-family: "Helvetica";
   color: white;
+  cursor: pointer;
 }
 
 p {
