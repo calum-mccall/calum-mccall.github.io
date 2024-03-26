@@ -37,13 +37,14 @@ body {
 }
 
 .hello {
-  background: #FFD449;
+  background: #E7E7EE;
 }
 
 .hello h1 {
   top: 10%;
+  color: #EF959C;
 }
 
 .hello h1:hover {
-  color: #CBB3BF;
+  color: #FFD449;
 }
