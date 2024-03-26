@@ -7,7 +7,10 @@ h1 {
   font-weight: lighter;
   font-family: "Helvetica";
   color: white;
-  cursor: pointer;
+}
+
+h1:hover {
+  color: #EF959C;
 }
 
 p {
@@ -21,20 +24,18 @@ p {
   color: white;
 }
 
+p:hover {
+  color: #F9A620;
+}
+
 body {
-  background: #006CB4;
+  background: #A8D5E2;
 }
 
-button {
-  position: fixed;
-  top: 70%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  border: none;
-  color: white;
-  padding: 14px 28px;
-  cursor: pointer;
+.home {
+  background: #A8D5E2;
 }
 
-.squelch {background-color: #ff99ff;}
-.squelch:hover {background-color: #ff66ff;}
+.hello {
+  background: #FFD449;
+}
